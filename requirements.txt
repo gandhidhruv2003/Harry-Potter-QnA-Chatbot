@@ -1,0 +1,10 @@
+flask
+langchain
+langchain-groq
+faiss-cpu
+PyPDF2
+transformers
+python-dotenv
+langchain-community
+sentence-transformers
+langchain_huggingface
