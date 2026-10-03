@@ -8,3 +8,8 @@ python-dotenv
 langchain-community
 sentence-transformers
 langchain_huggingface
+langchain-text-splitters
+rank-bm25 
+ragas 
+groq 
+pandas

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Who is Remus Lupin?",
+        "reference_answer": "Remus Lupin is a wizard, a werewolf, one of the Marauders known as Moony, and Harry's Defence Against the Dark Arts professor.",
+        "relevant_chunk_ids": [3126]
+    },
+    {
+        "question": "Who killed Dumbledore?",
+        "reference_answer": "Severus Snape killed Albus Dumbledore.",
+        "relevant_chunk_ids": [3099]
+    },
+    {
+        "question": "When did Harry find out that Lupin was a werewolf?",
+        "reference_answer": "Harry learned that Lupin was a werewolf during the events in the Shrieking Shack when Hermione revealed that she had figured out Lupin's secret.",
+        "relevant_chunk_ids": [851]
+    },
+    {
+        "question": "What was the prophecy about Harry and Voldemort?",
+        "reference_answer": "The prophecy concerned a child with the power to defeat Voldemort and stated that neither could live while the other survived.",
+        "relevant_chunk_ids": [2362]
+    }
+]
